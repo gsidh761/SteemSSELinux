@@ -1,5 +1,5 @@
-# SteamSSE Linux Port 
-v1.0.0 (Based on Steam SSE 4.2.0)
+# SteemSSE Linux Port 
+v1.0.0 (Based on Steem SSE 4.2.0)
 
 <br>
 
