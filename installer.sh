@@ -1,4 +1,4 @@
-echo "SteemSSE Linux Port For Ubuntu v1.0.0"
+echo "SteemSSE Linux Port For Arch v1.0.0"
 echo "Made By Gureet Sidhu (@gsidh761)"
 echo ""
 echo "Setting Up Enviroment..."
