@@ -1,4 +1,4 @@
-# SteamSSE Linux Ubuntu Port 
+# SteamSSE Linux Arch Port 
 v1.0.0 (Based on Steam SSE 4.2.0)
 
 <br>
